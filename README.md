@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkumar201&show_icons=true&theme=dark&locale=en" alt="vanshbajaj13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar201&theme=dark" alt="ashishkumar201" /></p>
-<p align="left"> <img src="https://wakatime.com/share/@ashishkumar201/e0eb07e3-7f38-43df-8821-5ccfabba1001.svg" width="400" height="400"/> </p>
+
 
