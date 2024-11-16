@@ -41,4 +41,4 @@
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
-![vanshbajaj13's snake gif](https://github.com/vanshbajaj13/vanshbajaj13/blob/output/github-contribution-grid-snake.svg)
+<!-- ![ashishkumar201's snake gif](https://github.com/ashishkumar201/ashishkumar201/blob/output/github-contribution-grid-snake.svg) -->
