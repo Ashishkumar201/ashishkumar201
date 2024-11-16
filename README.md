@@ -7,7 +7,7 @@
 <img src="https://wakatime.com/badge/user/104fbea8-4a6a-4c7e-b728-f69da17719c4.svg" alt="Error" srcset="">
 </p>        -->
 
-<p align="left"> <a href="https://x.com/Ashishbagria" target="blank"><img src="https://img.shields.io/twitter/follow/vanshbajaj_13?logo=twitter&style=for-the-badge" alt="Ashishbagria" /></a> </p>
+<p align="left"> <a href="https://x.com/Ashishbagria" target="blank"><img src="https://img.shields.io/twitter/follow/ashsihkumar201?logo=twitter&style=for-the-badge" alt="Ashishbagria" /></a> </p>
 
 - 🌱 I’m currently Mastering **Full stack Development**
 
